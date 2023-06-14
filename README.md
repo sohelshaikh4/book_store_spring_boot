@@ -1,4 +1,4 @@
-# book_store_spring_boot
+# spring-boot_book_store_application
 Book Store Management Web application.
 
 In this project, we have different created pages on the web. There are three pages home, available books, and Mybooks. Also, we have created a new book registration page. On this page,  we can register new book details which have provided the name, author, and price of the book. We can retrieve data from the database in table format. 
